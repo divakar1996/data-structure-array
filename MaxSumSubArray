@@ -1,4 +1,4 @@
-package com.epam.datastructure.practice.array;
+package datastructure.practice.array;
 
 public class MaxSumSubArray {
 
